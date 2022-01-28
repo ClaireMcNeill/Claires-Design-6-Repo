@@ -1,2 +1,2 @@
-# Claire's Design 6 Repo
+# Claire's Design 6 Repository
 ## Welcome!
